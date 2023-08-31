@@ -15,10 +15,10 @@ LC-MS/MS, HPLC, affinity purification, shotgun-, phosphoproteomics techniques
 * Implemented and developed technical approaches for state of the art mass spectrometry based proteomics
 * Used several data analytics approaches to reveil patterns and insights in several omics related projects
 
-**MSc. Thesis and internship @ Radboud institute of molecular life sciences (2014-2015)**
+**MSc. Thesis and internship @ Radboud Institute of Molecular Life Sciences (2014-2015)**
 * Developed a minimal tag enrichment approach using bioorthogonal chemistry and amber suppression technology
 
-**BASc. Thesis and internship @ Murdoch Childrens reserach Institute, Melbourne, AU (2012-2013)**
+**BASc. Thesis and internship @ Murdoch Childrens Research Institute, Melbourne, AU (2012-2013)**
 * Used diverse molecular biological techniques to investigate β-hemoglobinopathies
 
 ## Education
