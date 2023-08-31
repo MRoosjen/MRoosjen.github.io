@@ -20,14 +20,14 @@ R, Python, SQL
 * The Data Science Course: Complete Data Science Bootcamp (2023)
 
 ### Projects
-###**Predicting subcellular locations of proteins in A.Thaliana**
-* Project status Ongoing
+**Predicting subcellular locations of proteins in A.Thaliana**
+* _Project status Ongoing._
 Using dynamic organellar mapping workflows the subcellular location and movement of proteins are predicted by applying machine learning algorithms and Bayesian inference using **Pythons scikit-learn**  and **PyMC3** packages.The outcome of this project allows researchers to identify moving proteins in a holistic approach between different experimental conditions.
 ![Dynamicorganellarmaps](/assets/img/Organellarmaps.jpg)
 
 
-###**Rapid auxin mediated phosphorylation response**
-* Project status Completed
+**Rapid auxin mediated phosphorylation response**
+* _Project status Completed_
 To gain a deeper insight into rapid and dynamic auxin (plant hormone) mediated signaling quantitative phosphorylation time series data was generated. Using **R** and **Python** this data was wrangled and explored to unravel key signaling hubs using the **Minardo-Model, distance metrics and network analysis**. The analysis identified a key player in rapid auxin mediated phosphorylation based signaling which provided a bases for further funding and follow up studies. The results have been made available through a **R Shiny** app.
 ![Auxintimeseries](/assets/img/Auxintimeseries.jpg)
 
