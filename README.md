@@ -32,7 +32,7 @@ Using dynamic organellar mapping workflows the subcellular location and movement
 ![Dynamicorganellarmaps](/assets/img/Organellarmaps.jpg)
 
 ###**Evolutionary conserved auxin response**
-[Publication]([https://www.biorxiv.org/content/10.1101/2022.11.25.517949v1](https://www.biorxiv.org/content/10.1101/2022.11.25.517951v1))
+[Publication](https://www.biorxiv.org/content/10.1101/2022.11.25.517951v1)
 
 _Project status Completed._
 
@@ -45,10 +45,19 @@ This project started as a follow up on the "Rapid auxin mediated phosphorylation
 
 _Project status Completed._
   
-To gain a deeper insight into rapid and dynamic auxin (plant hormone) mediated signaling quantitative phosphorylation time series data was generated. Using **R** and **Python** this data was wrangled and explored to unravel key signaling hubs using the **Minardo-Model, distance metrics and network analysis**. The analysis identified a key player in rapid auxin mediated phosphorylation based signaling which provided a bases for further funding and follow up studies. The results have been made available through a **R Shiny** app.
+To gain a deeper insight into rapid and dynamic auxin (plant hormone) mediated signaling quantitative phosphorylation time series data was generated. Using **R** and **Python** this data was wrangled and explored to unravel key signaling hubs using the **Minardo-Model, distance metrics and network analysis**. The analysis identified a key player in rapid auxin mediated phosphorylation based signaling which provided a bases for further funding and follow up studies. The results have been made available through a **R Shiny** app [RShinyapp](https://weijerslab.shinyapps.io/AuxPhos/).
 
 ![Auxintimeseries](/assets/img/Auxintimeseries.jpg)
 
+###**Linking auxin receptors to rapid proteome responses**
+[Publication](https://www.nature.com/articles/s41586-022-05187-x)
+[Publication](https://www.nature.com/articles/s41586-021-04037-6)
+
+_Project status Completed._
+
+A valuable link was provided for our collaborators by collecting and analyzing phosphoproteomics datasets on auxin receptor mutant. These datasets were wrangled, mined and compared using R. The outcomes lead to new insights into auxin perception and signaling in A.Thaliana. 
+
+![Auxinreceptor](/assets/img/Auxin receptor.jpg)
 
 ## Publications
 * Fontana M., Roosjen M., Garcia IC., van den Berg W.,Malfois M., Boer R., Weijers D., Hohlbein J. 2023.Cooperative action of separate interaction domains promotes high-affinity DNA binding of Arabidopsis thaliana ARF transcription factors. PNAS, 120 (11) e2219916120
