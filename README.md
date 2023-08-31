@@ -23,22 +23,24 @@ R, Python, SQL
 **Predicting subcellular locations of proteins in A.Thaliana**
 * _Project status Ongoing._
 Using dynamic organellar mapping workflows the subcellular location and movement of proteins are predicted by applying machine learning algorithms and Bayesian inference using **Pythons scikit-learn**  and **PyMC3** packages.The outcome of this project allows researchers to identify moving proteins in a holistic approach between different experimental conditions.
+
 ![Dynamicorganellarmaps](/assets/img/Organellarmaps.jpg)
 
 
 **Rapid auxin mediated phosphorylation response**
-* _Project status Completed_
+* _Project status Completed._
 To gain a deeper insight into rapid and dynamic auxin (plant hormone) mediated signaling quantitative phosphorylation time series data was generated. Using **R** and **Python** this data was wrangled and explored to unravel key signaling hubs using the **Minardo-Model, distance metrics and network analysis**. The analysis identified a key player in rapid auxin mediated phosphorylation based signaling which provided a bases for further funding and follow up studies. The results have been made available through a **R Shiny** app.
+
 ![Auxintimeseries](/assets/img/Auxintimeseries.jpg)
 
 
 ### Publications
 * Fontana M., Roosjen M., Garcia IC., van den Berg W.,Malfois M., Boer R., Weijers D., Hohlbein J.
-  2023. Cooperative action of separate interaction domains promotes high-affinity DNA binding of Arabidopsis
+  2023.Cooperative action of separate interaction domains promotes high-affinity DNA binding of Arabidopsis
   thaliana ARF transcription factors. PNAS, 120 (11) e2219916120
 
 * Roosjen M., Kuhn A., Mutte SK., Boeren S., Krupar P., Koehorst J., Fendrych M., Friml J., Weijers D.
-  2022. An ultra-fast, proteome-wide response to the plant hormone auxin. In submission, preprint available
+  2022.An ultra-fast, proteome-wide response to the plant hormone auxin. In submission, preprint available
   https://doi.org/10.1101/2022.11.25.517949
 
 * Kuhn A., Roosjen M., Mutte SK., Dubey SM., Carrasco PC,. Monzer A., Kohchi T., Nishihama R.,
