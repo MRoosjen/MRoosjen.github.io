@@ -67,8 +67,8 @@ In various projects I **consulted** on **technical** and **data analytics** appr
  1. Identifying targets of various kinases and phosphatases in mutant A.Thaliana backgrounds. Skills used: LC-MS/MS, R and Python
  2. Identifying targets of a kinase that causes change in color of Petunia. Skills used: LC-MS/MS, R 
  3. Describing the molecular changes in a mutant causing failure of reproduction in the fungus Schizophyllum commune. Skills used: LC-MS/MS, R and Python
- 4. Identifying targets and interactors of polarly localized proteins in C.Elegans.
- 5. Developing data analysis pipeline to identify interactors of polarly localized proteins in A.Thaliana and M.Polymorpha.
+ 4. Identifying targets and interactors of polarly localized proteins in C.Elegans. Skills used: LC-MS/MS, R
+ 5. Developing data analysis pipeline to identify interactors of polarly localized proteins in A.Thaliana and M.Polymorpha. Skills used: R and Python
 
 ## Publications
 * Fontana M., Roosjen M., Garcia IC., van den Berg W.,Malfois M., Boer R., Weijers D., Hohlbein J. 2023.Cooperative action of separate interaction domains promotes high-affinity DNA binding of Arabidopsis thaliana ARF transcription factors. PNAS, 120 (11) e2219916120
