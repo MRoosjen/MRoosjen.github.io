@@ -1,15 +1,25 @@
-# Scientific Researcher/ Aspiring Data Scientist
+# Scientific Researcher / aspiring Data Scientist
 Programing Skills: 
-R, Python, SQL, UCSF ChimeraX, PyMOL
+Python,R, SQL, UCSF ChimeraX, PyMOL, Maxquant, Perseus, pLINK and Xi
 
 Technical Skills:
 LC-MS/MS, HPLC, affinity purification, shotgun-, phosphoproteomics techniques
 
 ## Work Experience
 **Scientific Researcher @ Wageningen University and Research (2019 - present)**
-  * Consulted on various proteomics and data projects
-  * Provided data analytics solutions to diverse Omics datasets
-  * Supervised students, PhD and Post-Docs
+ * Consulted on various proteomics and data projects
+ * Provided data analytics solutions to diverse omics datasets
+ * Supervised students, PhD and Post-Docs
+
+**Graduate student @ Wageningen University and Research (2015-2019)**
+* Implemented and developed technical approaches for state of the art mass spectrometry based proteomics
+* Used several data analytics approaches to reveil patterns and insights in several omics related projects
+
+**MSc. Thesis and internship @ Radboud institute of molecular life sciences (2014-2015)**
+* Developed a minimal tag enrichment approach using bioorhtogonal chemistry and amber supression technology
+
+**BASc. Thesis and internship @ Murdoch Childrens reserach Institute, Melbourne, AU (2012-2013)**
+* Used diverse molecular biological technqiues to investigate β-hemoglobinopathies
 
 ## Education
 * PhD.,  Biochemistry/Proteomics, Wageningen University & Research  2020
