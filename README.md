@@ -1,7 +1,10 @@
 # Scientific Researcher
 ## Aspiring Data Scientist
-Technical Skills: 
-R, Python, SQL
+Programing Skills: 
+R, Python, SQL, UCSF ChimeraX, PyMOL
+
+Technical Skills:
+LC-MS/MS, HPLC, affinity purification, shotgun-, phosphoproteomics techniques
 
 ## Work Experience
 **Scientific Researcher @ Wageningen University and Research (2019 - present)**
@@ -22,17 +25,25 @@ R, Python, SQL
 ## Projects
 ###**Predicting subcellular locations of proteins in A.Thaliana**
 
-* _Project status Ongoing._
+_Project status Ongoing._
 
 Using dynamic organellar mapping workflows the subcellular location and movement of proteins are predicted by applying machine learning algorithms and Bayesian inference using **Pythons scikit-learn**  and **PyMC3** packages.The outcome of this project allows researchers to identify moving proteins in a holistic approach between different experimental conditions.
 
 ![Dynamicorganellarmaps](/assets/img/Organellarmaps.jpg)
 
+###**Evolutionary conserved auxin response**
+[Publication]([https://www.biorxiv.org/content/10.1101/2022.11.25.517949v1](https://www.biorxiv.org/content/10.1101/2022.11.25.517951v1))
+
+_Project status Completed._
+
+This project started as a follow up on the "Rapid auxin mediated phosphorylation response" project. Since many of the canonical transcriptional auxin (plant hormone) signalling components are not conserved throughout the green plant lineage, quantitiave phosphoproteomics datasets on representative green lineage plant species were generated to dissect a rapid evolutionary conserved response. To allow **cross dataset comparison**, repsective publicly available proteomes were used to generate orhtogroupings across the used green organisms. Using **R** and **Python** data was wrangled and analyzed on conserved phosphorylation patterns. This analysis identified an evolutionary conserved rapid auxin response, key players and physiological outcomes.
+
+![Auxinevo](/assets/img/Evoauxin.jpg)
 
 ###**Rapid auxin mediated phosphorylation response**
 [Publication](https://www.biorxiv.org/content/10.1101/2022.11.25.517949v1)
 
-* _Project status Completed._
+_Project status Completed._
   
 To gain a deeper insight into rapid and dynamic auxin (plant hormone) mediated signaling quantitative phosphorylation time series data was generated. Using **R** and **Python** this data was wrangled and explored to unravel key signaling hubs using the **Minardo-Model, distance metrics and network analysis**. The analysis identified a key player in rapid auxin mediated phosphorylation based signaling which provided a bases for further funding and follow up studies. The results have been made available through a **R Shiny** app.
 
