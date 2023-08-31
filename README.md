@@ -55,9 +55,20 @@ To gain a deeper insight into rapid and dynamic auxin (plant hormone) mediated s
 
 _Project status Completed._
 
-A valuable link was provided for our collaborators by collecting and analyzing phosphoproteomics datasets on auxin receptor mutant. These datasets were wrangled, mined and compared using **R**. The outcomes lead to new insights into auxin perception and signaling in A.Thaliana. 
+A valuable link was provided for our collaborators by collecting and analyzing phosphoproteomics datasets on auxin receptor mutants. These datasets were wrangled, mined and compared using **R**. The outcomes lead to new insights into auxin perception and signaling in A.Thaliana. 
 
 ![Auxinreceptor](/assets/img/Auxin receptor.jpg)
+
+**Various projects**
+
+![variousprojects](/assets/img/Various projects.jpg)
+
+In various projects I **consulted** on **technical** and **data analytics** approaches to provide knowledgeable insights into stakeholders questions:
+ 1. Identifying targets of various kinases and phosphatases in mutant A.Thaliana backgrounds. Skills used: LC-MS/MS, R and Python
+ 2. Identifying targets of a kinase that causes change in color of Petunia. Skills used: LC-MS/MS, R 
+ 3. Describing the molecular changes in a mutant causing failure of reproduction in the fungus Schizophyllum commune. Skills used: LC-MS/MS, R and Python
+ 4. Identifying targets and interactors of polarly localized proteins in C.Elegans.
+ 5. Developing data analysis pipeline to identify interactors of polarly localized proteins in A.Thaliana and M.Polymorpha.
 
 ## Publications
 * Fontana M., Roosjen M., Garcia IC., van den Berg W.,Malfois M., Boer R., Weijers D., Hohlbein J. 2023.Cooperative action of separate interaction domains promotes high-affinity DNA binding of Arabidopsis thaliana ARF transcription factors. PNAS, 120 (11) e2219916120
