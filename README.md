@@ -23,7 +23,7 @@ LC-MS/MS, HPLC, affinity purification, shotgun-, phosphoproteomics techniques
 * The Data Science Course: Complete Data Science Bootcamp (2023)
 
 ## Projects
-###**Predicting subcellular locations of proteins in A.Thaliana**
+**Predicting subcellular locations of proteins in A.Thaliana**
 
 _Project status Ongoing._
 
@@ -31,7 +31,7 @@ Using dynamic organellar mapping workflows the subcellular location and movement
 
 ![Dynamicorganellarmaps](/assets/img/Organellarmaps.jpg)
 
-###**Evolutionary conserved auxin response**
+**Evolutionary conserved auxin response**
 [Publication](https://www.biorxiv.org/content/10.1101/2022.11.25.517951v1)
 
 _Project status Completed._
@@ -40,7 +40,7 @@ This project started as a follow up on the "Rapid auxin mediated phosphorylation
 
 ![Auxinevo](/assets/img/Evoauxin.jpg)
 
-###**Rapid auxin mediated phosphorylation response**
+**Rapid auxin mediated phosphorylation response**
 [Publication](https://www.biorxiv.org/content/10.1101/2022.11.25.517949v1)
 
 _Project status Completed._
@@ -49,13 +49,13 @@ To gain a deeper insight into rapid and dynamic auxin (plant hormone) mediated s
 
 ![Auxintimeseries](/assets/img/Auxintimeseries.jpg)
 
-###**Linking auxin receptors to rapid proteome responses**
+**Linking auxin receptors to rapid proteome responses**
 [Publication](https://www.nature.com/articles/s41586-022-05187-x)
 [Publication](https://www.nature.com/articles/s41586-021-04037-6)
 
 _Project status Completed._
 
-A valuable link was provided for our collaborators by collecting and analyzing phosphoproteomics datasets on auxin receptor mutant. These datasets were wrangled, mined and compared using R. The outcomes lead to new insights into auxin perception and signaling in A.Thaliana. 
+A valuable link was provided for our collaborators by collecting and analyzing phosphoproteomics datasets on auxin receptor mutant. These datasets were wrangled, mined and compared using **R**. The outcomes lead to new insights into auxin perception and signaling in A.Thaliana. 
 
 ![Auxinreceptor](/assets/img/Auxin receptor.jpg)
 
