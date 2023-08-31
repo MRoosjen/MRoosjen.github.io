@@ -1,5 +1,4 @@
-# Scientific Researcher
-## Aspiring Data Scientist
+# Scientific Researcher/ Aspiring Data Scientist
 Programing Skills: 
 R, Python, SQL, UCSF ChimeraX, PyMOL
 
