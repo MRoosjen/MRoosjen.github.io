@@ -16,10 +16,10 @@ LC-MS/MS, HPLC, affinity purification, shotgun-, phosphoproteomics techniques
 * Used several data analytics approaches to reveil patterns and insights in several omics related projects
 
 **MSc. Thesis and internship @ Radboud institute of molecular life sciences (2014-2015)**
-* Developed a minimal tag enrichment approach using bioorhtogonal chemistry and amber supression technology
+* Developed a minimal tag enrichment approach using bioorthogonal chemistry and amber suppression technology
 
 **BASc. Thesis and internship @ Murdoch Childrens reserach Institute, Melbourne, AU (2012-2013)**
-* Used diverse molecular biological technqiues to investigate β-hemoglobinopathies
+* Used diverse molecular biological techniques to investigate β-hemoglobinopathies
 
 ## Education
 * PhD.,  Biochemistry/Proteomics, Wageningen University & Research  2020
