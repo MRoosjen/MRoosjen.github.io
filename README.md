@@ -20,12 +20,11 @@ BASc., Biotechnology,Van Hall Larenstein University of Applied Sciences 2013
 * The Data Science Course: Complete Data Science Bootcamp (2023)
 
 ### Projects
-**Predicting subcellular location of proteins in A.Thaliana**
-_Project status: Ongoing_
-
+###**Predicting subcellular location of proteins in A.Thaliana**
+####_Project status: Ongoing_
 Using dynamic organellar mapping workflows the subcellular location and movement of proteins are predicted by applying machine learning algorithms and Bayesian inference using **Pythons scikit-learn** and **PyMC3** packages. The outcome of this project allows researchers to identify moving proteins in a holistic approach between different experimental conditions.
 
-(/assets/img/Organellarmaps.jpg)
+![Dynamicorganellarmaps](/assets/img/Organellarmaps.jpg)
 
 
 ### Publications
