@@ -1,4 +1,4 @@
-# Scientific Researcher / experimental Data Analyst
+# Scientific Researcher / Experimental Data Analyst
 Programing Skills: 
 Python,R, SQL, UCSF ChimeraX, PyMOL, Maxquant, Perseus, pLINK and Xi
 
