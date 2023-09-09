@@ -36,7 +36,7 @@ LC-MS/MS, HPLC, affinity purification, shotgun-, phosphoproteomics techniques
 
 _Project status Ongoing._
 
-Using dynamic organellar mapping workflows the subcellular location and movement of proteins are predicted by applying machine learning algorithms and Bayesian inference using **Pythons scikit-learn**  and **PyMC3** packages.The outcome of this project allows researchers to identify moving proteins in a holistic approach between different experimental conditions.
+Using dynamic organellar mapping workflows the subcellular location and movement of proteins are predicted by applying machine learning and deep learning algorithms and Bayesian inference using **Pythons scikit-learn**, **Tensorflow**  and **PyMC3** packages.The outcome of this project allows researchers to identify moving proteins in a holistic approach between different experimental conditions.
 
 ![Dynamicorganellarmaps](/assets/img/Organellarmaps.jpg)
 
